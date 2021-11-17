@@ -1,0 +1,37 @@
+20:59:47.946 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+21:00:42.635 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+21:00:45.449 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+21:00:46.290 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:00:57.546 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:00:57.555 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:01:00.509 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details
+21:01:00.645 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+21:01:00.737 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details
+21:01:15.944 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:01:18.955 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:01:18.957 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:01:22.534 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details
+21:01:22.625 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+21:01:22.721 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details
+21:01:37.915 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:01:41.050 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:01:41.052 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:01:43.921 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details
+21:04:37.472 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+21:04:43.238 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+21:04:43.999 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:04:58.594 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:04:58.600 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:05:01.025 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details
+21:05:01.169 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+21:05:01.257 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details
+21:05:04.320 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:05:07.451 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:05:07.453 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:05:12.161 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details
+21:05:12.267 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+21:05:12.357 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details
+21:05:17.933 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:05:21.489 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:05:21.491 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:05:24.878 [TestNG-test=Test-1] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details

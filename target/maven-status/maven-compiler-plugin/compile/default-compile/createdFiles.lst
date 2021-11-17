@@ -1,0 +1,6 @@
+pageObjects\SiteHomePage.class
+pageObjects\CreateAccountPage.class
+pageObjects\UserHomePage.class
+resources\Base.class
+pageObjects\PersonalInfoPage.class
+resources\ExtentReporterNG.class

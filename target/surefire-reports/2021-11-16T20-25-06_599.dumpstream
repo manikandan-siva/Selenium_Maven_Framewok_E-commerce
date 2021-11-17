@@ -1,0 +1,15 @@
+# Created at 2021-11-16T20:25:09.713
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2021-11-16T20:25:09.714
+WARNING: Illegal reflective access by org.dom4j.io.SAXContentHandler (file:/C:/Users/KANDAN%20S/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar) to method com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$LocatorProxy.getEncoding()
+
+# Created at 2021-11-16T20:25:09.714
+WARNING: Please consider reporting this to the maintainers of org.dom4j.io.SAXContentHandler
+
+# Created at 2021-11-16T20:25:09.715
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2021-11-16T20:25:09.717
+WARNING: All illegal access operations will be denied in a future release
+

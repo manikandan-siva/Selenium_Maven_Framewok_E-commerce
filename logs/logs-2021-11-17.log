@@ -1,0 +1,89 @@
+21:50:15.011 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+21:50:33.243 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+21:50:33.451 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:50:48.144 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:50:48.151 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:50:53.263 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+21:50:55.988 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+21:50:56.050 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:51:04.375 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:51:04.377 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:51:08.061 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+21:51:10.180 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+21:51:10.181 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:51:17.034 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:51:17.035 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:51:21.510 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details sstry@gmail.com
+21:51:21.636 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+21:51:23.730 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details for Mr Thir Per
+21:51:24.263 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering addrs-asaf city-fsf state-Arizona Postal code-00000
+21:51:24.747 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering addninfo asfaf
+21:51:24.843 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering  mobile no 1234567890
+21:51:24.965 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Submitting user details
+21:51:29.995 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Validating user creation
+21:51:30.027 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - User creation success
+21:57:56.363 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+21:57:59.108 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+21:57:59.141 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:58:06.433 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:58:06.441 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:58:12.271 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details fires@gm.c
+21:58:12.374 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+21:58:14.474 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details for Mr Rao Raj
+21:58:30.331 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+21:58:32.899 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+21:58:32.899 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:58:43.880 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:58:43.882 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:58:47.937 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details res@gm.co
+21:58:48.067 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+21:58:50.157 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details for Mrs Raven Raji
+21:59:05.606 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+21:59:07.593 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+21:59:07.594 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+21:59:14.983 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+21:59:14.984 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+21:59:19.681 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details sstry@gmail.com
+21:59:19.820 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+21:59:21.914 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details for Mr Thir Per
+22:00:51.091 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+22:00:53.934 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+22:00:53.943 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+22:01:01.225 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+22:01:01.233 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+22:01:05.600 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details firestickeyuio@gm.c
+22:01:05.785 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+22:01:07.892 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details for Mr Rao Raj
+22:01:08.357 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering addrs-asdfgh city-htfd state-Delaware Postal code-00000
+22:01:08.864 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering addninfo askjfhkjasf
+22:01:09.000 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering  mobile no 1234567890
+22:01:09.124 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Submitting user details
+22:01:13.263 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Validating user creation
+22:01:13.298 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - User creation success
+22:01:15.648 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+22:01:17.510 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+22:01:17.512 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+22:01:25.338 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+22:01:25.340 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+22:01:30.583 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details restsoapiopiu@gm.co
+22:01:30.771 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+22:01:32.861 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details for Mrs Raven Raji
+22:01:33.419 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering addrs-asdfgh city-htfd state-Connecticut Postal code-aaaaa
+22:01:33.937 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering addninfo askjfhkjasf
+22:01:34.085 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering  mobile no 1234567890
+22:01:34.217 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Submitting user details
+22:01:37.717 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Validating user creation
+22:01:53.257 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Initiating driver
+22:01:55.155 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Driver initiation comlplete
+22:01:55.156 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Opening URL - http://automationpractice.com/index.php
+22:02:02.077 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - URL loaded
+22:02:02.078 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Clicking on Sign in
+22:02:06.706 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering Email details sssgtesgttry@gmail.com
+22:02:06.882 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Registering
+22:02:09.004 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering user details for Mr Thir Per
+22:02:09.436 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering addrs-asaf city-fsf state-Arizona Postal code-00000
+22:02:10.069 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering addninfo asfaf
+22:02:10.159 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Entering  mobile no 1234567890
+22:02:10.271 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Submitting user details
+22:02:15.026 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - Validating user creation
+22:02:15.052 [main] INFO  ecommerceTesting.UsrAccCreateAndValdTest - User creation success
