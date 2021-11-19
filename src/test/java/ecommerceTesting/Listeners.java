@@ -72,7 +72,7 @@ public class Listeners extends Base implements ITestListener {
 		}
 		
 		localTest.get().log(Status.PASS, "User Created and validated");
-		finalReport.flush();
+		//finalReport.flush();
 	}
 
 	@Override
@@ -98,7 +98,7 @@ public class Listeners extends Base implements ITestListener {
 		}
 		
 		localTest.get().fail(result.getThrowable());
-		finalReport.flush();
+		//finalReport.flush();
 
 	}
 
@@ -126,7 +126,7 @@ public class Listeners extends Base implements ITestListener {
 	public void onFinish(ITestContext context) {
 		// TODO Auto-generated method stub
 		//to write test logs captured in the report
-		//finalReport.flush();
+		finalReport.flush();
 	}
 	
 	public void captureInfo()
