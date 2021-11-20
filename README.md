@@ -35,11 +35,10 @@ Read user details from excel and then create account for each user in an e-comme
 
 3) **Listeners** 
    - Handled screenshot capture and intergrating it with extent reports functionality after every test success or failure.
-     - File design - Constructor to get the driver first, then webelement locator, methods to return that locator to test cases, hybrid methods to call other page object's class,which will be redirected from first pageobjects operations like login button in home screen to login screen and return corresponding object.
 
 4) **UsrAccCreateAndValdTest** 
-   - TestNG file with actual test case having step-by-step execution code.
-   - DataProvider is utilized to multi-run a method for different input.
+   - TestNG file with actual test case having step-by-step execution.
+   - DataProvider is utilized to multi-run a same method for different inputs.
 
 ### Other folder
 
@@ -59,7 +58,7 @@ Read user details from excel and then create account for each user in an e-comme
 	 
 ### Other config files
 9) **pom xml** 
-   - Contatins all java library which we used, TestNG and log4j config file linkage
+   - Contatins all java library which we used and TestNG & log4j config file linkage
    
 10) **testng xml** 
    - Contains test case details
