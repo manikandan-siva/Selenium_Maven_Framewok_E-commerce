@@ -27,7 +27,6 @@ Read user details from excel and then create account for each user in an e-comme
    - Base file to define driver, read property file, read input excel and take test reuslt screenshots.
      - Multi-browser(chrome or firefox) and multi-execution feature(UI or headless) added in driver initiation
    - ExtentreporterNG file containing the configuration details of extent reports.
-   - Base file to define driver, read property file, read input excel and take test reuslt screenshots.
    - Chrome and gecko exe driver files.
    - Data property with generic parameters like URL
    - log4j2 xml file to configure log capture set-up
