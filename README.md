@@ -94,4 +94,5 @@ mvn -DBrowser="firefoxheadless" test
 2) **apache-maven-3.6.3 and above** 
 3) **Set java and maven home path in environment variable**
 4) **Add java and maven bin path in path environment variable**
+5) **Chrome or firefox app 
 
