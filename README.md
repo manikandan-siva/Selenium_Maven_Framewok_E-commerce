@@ -88,11 +88,18 @@ mvn -DBrowser="firefox" test
 mvn -DBrowser="firefoxheadless" test
 ```
 
+**Using Safari**
+**UI mode**
+```bash
+mvn -DBrowser="safari" test
+```
+
 
 ## Pre-requisite
 1) **Java jdk-14.0.2 and above** 
 2) **apache-maven-3.6.3 and above** 
 3) **Set java and maven home path in environment variable**
 4) **Add java and maven bin path in path environment variable**
-5) **Chrome or firefox app 
+5) **Chrome or firefox app in windows**
+6) **Safari in Mac - will run only in safari in mac**
 
