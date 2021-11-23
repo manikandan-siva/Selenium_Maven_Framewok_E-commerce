@@ -66,8 +66,12 @@ Read user details from excel and then create account for each user in an e-comme
 
 
 ## To execute framework from command prompt
-Download the main folder Selenium_Maven_framework_E-commerce from Git.(Click on Code (green)button->Download Zip)
-Navigate to the main folder downloaded (```bash cd C:\Users\...\Downloads\Selenium_Maven_framework_E-commerce-main```) and then execute below commands based on the options provided.
+Download the main folder Selenium_Maven_framework_E-commerce from Git.(Click on Code (green)button->Download Zip).
+Navigate to the main folder downloaded.(where ... will be subsequent sub-paths mostly your windows account name)
+```bash 
+cd C:\Users\...\Downloads\Selenium_Maven_framework_E-commerce-main
+``` 
+Then execute below commands based on the options provided.
 
 **Using Chrome**
 **UI mode**
